@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamkash
-- 👀 I’m interested in cross platform (WEBGL, OPENGL, Vulkan, Metal, on desktop, android, ios) low level graphics programming (games, AR, VR, XR).
-- 🌱 I’m currently learning cross platform game development using google filament framework, emscripten and WebAssembly.
+- 👀 I’m interested in cross platform graphics programming for games, AR, VR, and XR.
+- 🌱 I’m currently learning cross platform game development (desktop, Web, android, ios) using google filament PBR framework, C++, Kotlin, Swift, emscripten and WebAssembly.
 - 💞️ I’m currently not looking to collaborate
 - 📫 
 
