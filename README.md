@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamkash
 - 👀 I’m interested in cross platform graphics programming for simulations, games, AR, and VR
-- 🌱 I’m currently graphics (GPU) programming (Desktop, Web, Android, iOS) using: 
+- 🌱 I’m currently learning graphics (GPU) programming (Desktop, Web, Android, iOS) using: 
   - @google/filament PBR framework, C++, Kotlin, Swift, emscripten and WebAssembly
   - WebGPU @gfx-rs/wgpu, Rust, WebAssembly
 - 💞️ I’m currently not looking to collaborate
