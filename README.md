@@ -1,4 +1,3 @@
-<span style="background-color:yellow">
 # hello
 My Current interest and research:
 * Computer Graphics
@@ -11,4 +10,3 @@ My Current interest and research:
 * Deep Learning with Python
   * Timeseries Forecasting using LSTM, CNN, GNN, Transformer and Hybride models
   * PyTorch, Scikit Learn
-</span>
