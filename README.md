@@ -8,5 +8,6 @@ My Current interest and research:
     * WGSL
     * Book of Shaders
 * Deep Learning with Python
+  * PyTorch, Keras, Scikit Learn
   * Timeseries Forecasting using LSTM, CNN, GNN, Transformer and Hybride models
-  * PyTorch, Scikit Learn
+  * Physics Informed Neural Networks https://en.wikipedia.org/wiki/Physics-informed_neural_networks
