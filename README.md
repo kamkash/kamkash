@@ -1,5 +1,5 @@
 # hello
-My Current interest and research:
+My current interest and research:
 * Numerical Methods
   * Numerical modeling and simulation
   * Numerical solutions to ordinary and partial differential equations
